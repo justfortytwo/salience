@@ -77,3 +77,7 @@ npm test        # vitest run
 ## License
 
 MIT (c) 2026 justfortytwo
+
+---
+
+Created and maintained by [**Enrico Deleo**](https://enricodeleo.com).

@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Model-driven salience extraction engine for justfortytwo: distils a conversational turn into atomic, scored candidate memories. The LLM client is an injected dependency — deepthought owns the contract + a stub, never a provider.",
   "license": "MIT",
-  "author": "justfortytwo",
+  "author": { "name": "Enrico Deleo", "url": "https://enricodeleo.com" },
   "type": "module",
   "engines": {
     "node": ">=18"
